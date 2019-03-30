@@ -1,4 +1,4 @@
-*** Log parser
+# Log parser
 
 Simple training exercise for parsing simple request logs with "#{url} #{ip}" format for each line. 
 
