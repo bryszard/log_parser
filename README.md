@@ -1,6 +1,6 @@
 # Log parser
 
-Simple training exercise for parsing simple request logs with "#{url} #{ip}" format for each line. 
+Simple training exercise for parsing simple request logs with "#{url} #{ip}" format for each line as input. 
 
 To run against an example log execute:
 ```
